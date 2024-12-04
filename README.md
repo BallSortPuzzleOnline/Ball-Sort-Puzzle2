@@ -40,6 +40,7 @@ Each level presents you with a set of test tubes filled with colored balls in ra
 - Look for opportunities to create complete color sets
 - Don't hesitate to use the undo button if needed
 
+
 ## ❓ FAQ
 
 ### Is Ball Sort Puzzle free to play?
@@ -53,6 +54,41 @@ The game features hundreds of levels with varying difficulties.
 
 ### Is there a time limit?
 No, you can solve each puzzle at your own pace.
+
+### How is Ball Sort Puzzle 2 different from the original?
+Ball Sort Puzzle 2 features enhanced gameplay mechanics, new level designs, and more challenging puzzle configurations while maintaining the core sorting mechanics that players love. It offers a fresh experience for both new and returning players.
+
+### Are the puzzles more challenging in this version?
+Yes, Ball Sort Puzzle 2 introduces more sophisticated puzzle designs and complex color arrangements. However, the difficulty progression is carefully balanced to ensure an enjoyable experience for all skill levels.
+
+### What new features are included in Ball Sort Puzzle 2?
+This version includes enhanced visual feedback, refined game mechanics, and new strategic challenges. Players will discover fresh puzzle configurations while enjoying improved gameplay tools and assistance features.
+
+### Can I play Ball Sort Puzzle 2 if I haven't played the original?
+Absolutely! While Ball Sort Puzzle 2 builds on the original's success, it's designed to be accessible to new players. The game includes clear tutorials and a gradual difficulty progression to help players learn the mechanics.
+
+### What makes Ball Sort Puzzle 2 engaging?
+Ball Sort Puzzle 2 combines familiar sorting mechanics with fresh challenges and improved features. The game maintains its addictive nature through carefully designed levels that offer both immediate satisfaction and long-term challenge.
+
+### How does the difficulty progression work?
+The game features a carefully crafted difficulty curve that introduces new challenges gradually. As players advance, they'll encounter more complex color combinations and tube arrangements, ensuring a consistently engaging experience.
+
+### What strategies work best in Ball Sort Puzzle 2?
+Success in Ball Sort Puzzle 2 requires a combination of careful planning and strategic thinking. Focus on creating clear paths for color sorting, use empty tubes wisely, and don't hesitate to use the enhanced undo feature to experiment with different approaches.
+
+### Is there a limit to how many times I can use the undo feature?
+No, Ball Sort Puzzle 2 offers unlimited use of the undo feature, allowing players to freely experiment with different strategies and learn from their mistakes. This feature is especially helpful when tackling more complex levels that require multiple attempts to solve.
+
+### Does Ball Sort Puzzle 2 save my progress automatically?
+Yes, Ball Sort Puzzle 2 automatically saves your progress after completing each level. You can safely close the game and return later to continue from where you left off. The game also tracks your achievements and completed levels to show your overall progression.
+
+### Are there any special techniques for solving difficult levels?
+For challenging levels, try these advanced techniques:
+- Identify color groups that are already partially sorted and prioritize completing these
+- Maintain at least one empty tube as a temporary workspace
+- Look for opportunities to create 'chains' where moving one ball creates a sequence of possible moves
+- Remember that sometimes the solution requires temporarily breaking up seemingly correct color groupings
+
 
 ## 🔧 Technical Requirements
 
